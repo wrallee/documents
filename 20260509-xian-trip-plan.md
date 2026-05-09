@@ -74,7 +74,8 @@
 | 08:00 | 고속철도 (시안→낙양) | — | — | 西安北→洛阳龙门, 약 1.5h. 차내 간식으로 간단히 아점 해결 |
 | 09:30 | 낙양용문역 도착→용문석굴 | 龙门石窟 | [고덕](https://www.amap.com/search?query=龙门石窟) / [구글](https://www.google.co.kr/maps/search/龙门石窟) | 역에서 택시 약 15분 |
 | 10:00 | 용문석굴 관람 | 龙门石窟 | [고덕](https://www.amap.com/search?query=龙门石窟) / [구글](https://www.google.co.kr/maps/search/龙门石窟) | 90元/인, 서산→동산→향산사→백원, ~2.5h |
-| 12:30 | 점심: 낙양우면/수시 | 洛阳水席 / 洛阳牛肉汤 | [고덕](https://www.amap.com/search?query=洛阳水席) / [구글](https://www.google.co.kr/maps/search/洛阳水席) | 용문석굴 인근 or 낙양 시내 |
+| 12:30 | 관림 (관우 사당) | 关林 | [고덕](https://www.amap.com/search?query=关林洛阳) / [구글](https://www.google.co.kr/maps/search/关林+洛阳) | 용문석굴에서 차로 10분. 관우 머리 매장지, 청룡언월도, ~40분 |
+| 13:15 | 점심: 낙양수석/소고기탕 | 洛阳水席 / 洛阳牛肉汤 | [고덕](https://www.amap.com/search?query=洛阳水席) / [구글](https://www.google.co.kr/maps/search/洛阳水席) | 소고기탕(牛肉汤) = 낙양 아침 대표. 예약 불필요, 그냥 방문 |
 | 14:00 | 낙양박물관 | 洛阳博物馆 | [고덕](https://www.amap.com/search?query=洛阳博物馆) / [구글](https://www.google.co.kr/maps/search/洛阳博物馆) | 무료, ~1.5h. 월요일 휴관 주의 |
 | 15:30 | 백마사 | 白马寺 | [고덕](https://www.amap.com/search?query=白马寺洛阳) / [구글](https://www.google.co.kr/maps/search/白马寺+洛阳) | 중국 최초 사찰, ~1.5h |
 | 17:00 | 저녁+리징문 야경 | 丽景门 | [고덕](https://www.amap.com/search?query=丽景门洛阳) / [구글](https://www.google.co.kr/maps/search/丽景门+洛阳) | 리징문 주변 저녁 식사 |
@@ -104,7 +105,7 @@
 - 🏯 용문석굴 (5/15 낮)
 - 🏯 백마사 (5/15 오후)
 - 🏯 리징문 (5/15 저녁)
-- 🍜 낙양우면/물만두 (5/15 점심)
+- 🍜 낙양소고기탕/수석 (5/15 점심)
 
 ---
 
@@ -212,8 +213,8 @@
 | 양포자탕 | 羊肉泡馍 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=羊肉泡馍+回民街) / [구글](https://www.google.co.kr/maps/search/羊肉泡馍+回民街) | 5/16 Plan B | 회족거리 |
 | 쩡까오 | 甄糕 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=甄糕) / [구글](https://www.google.co.kr/maps/search/甄糕+西安) | 5/16 Plan B | 늦으면 품절 |
 | 영흥방 | 永兴坊 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=永兴坊+西安) / [구글](https://www.google.co.kr/maps/search/永兴坊+西安) | 5/16 Plan B | 종루 근처 |
-| 낙양우면 | 洛阳牛肉汤 | 🚄 낙양 | [고덕](https://www.amap.com/search?query=洛阳牛肉汤) / [구글](https://www.google.co.kr/maps/search/洛阳牛肉汤) | 5/15 점심 | 낙양 대표 |
-| 낙양물만두 | 洛阳水席 | 🚄 낙양 | [고덕](https://www.amap.com/search?query=洛阳水席) / [구글](https://www.google.co.kr/maps/search/洛阳水席) | 5/15 점심 | 낙양 대표 |
+| 낙양소고기탕 | 洛阳牛肉汤 | 🚄 낙양 | [고덕](https://www.amap.com/search?query=洛阳牛肉汤) / [구글](https://www.google.co.kr/maps/search/洛阳牛肉汤) | 5/15 점심 | 진한 소고기 국탕, 낙양 토박이 |
+| 낙양수석(水席) | 洛阳水席 | 🚄 낙양 | [고덕](https://www.amap.com/search?query=洛阳水席) / [구글](https://www.google.co.kr/maps/search/洛阳水席) | 5/15 점심 | 낙양 대표 코스요리. 武皇盛宴 체인(낙양 origin, 西安 대당불야성점도 있음) |
 | 아저씨네 새우훠궈 | 大叔的虾 | 자유시간 | [고덕](https://www.amap.com/search?query=大叔的虾+西安) / [구글](https://www.google.co.kr/maps/search/大叔的虾+西安) | — | |
 | 헤이티 | 喜茶 | 자유시간 | [고덕](https://www.amap.com/search?query=喜茶+西安) / [구글](https://www.google.co.kr/maps/search/喜茶+西安) | — | |
 | 샤오롱칸 훠궈 | 小龙坎火锅 | 자유시간 | [고덕](https://www.amap.com/search?query=小龙坎火锅+西安) / [구글](https://www.google.co.kr/maps/search/小龙坎火锅+西安) | — | |
