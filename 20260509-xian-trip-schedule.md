@@ -1,6 +1,6 @@
 # 시안 여행 계획서 (2026.05.14-05.18)
 
-> **숙소**: JW 메리어트 호텔 시안 사우스웨스트 (西安JW万豪酒店, 西安市雁塔区曲江新路)<br>
+> **숙소**: JW 메리어트 호텔 시안 (西安高新JW万豪酒店, 西安市经济技术开发区凤城八路168号)<br>
 > **여행인원**: 2명<br>
 > **통신**: 통신사 로밍 (VPN 불필요, 카톡/구글/인스타 모두 사용)<br>
 > **매일 숙소 출발 → 관광 → 숙소 복귀**
@@ -42,19 +42,19 @@
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
 | 12:10 | 공항 도착 | 西安咸阳国际机场 | [고덕](https://www.amap.com/search?query=西安咸阳国际机场) / [구글](https://www.google.co.kr/maps/search/西安咸阳国际机场) | 아시아나 |
-| 13:00 | 숙소 체크인 | 西安JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安JW万豪酒店) | 디디추싱 ~40분 |
+| 13:00 | 숙소 체크인 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | 디디추싱 ~40분 |
 | 13:30 | 비단길 군상 | 丝绸之路群雕 | [고덕](https://www.amap.com/search?query=丝绸之路群雕+西安) / [구글](https://www.google.co.kr/maps/search/丝绸之路群雕+西安) | 숙소 인근, 도보/디디 5분 |
 | 14:30 | 산서역사박물관 | 陕西历史博物馆 | [고덕](https://www.amap.com/search?query=陕西历史博物馆) / [구글](https://www.google.co.kr/maps/search/陕西历史博物馆) | 무료 예약제, 매표마감 16:00, ~1.5h |
 | 16:00 | 탕 파라다이스 ☕ | 大唐芙蓉园 | [고덕](https://www.amap.com/search?query=大唐芙蓉园) / [구글](https://www.google.co.kr/maps/search/大唐芙蓉园) | 정원 산책, ~1h. ☕ 현재 무료 개방 (사전 예약 필수!) |
 | 17:00 | 성벽 자전거 | 西安城墙永宁门 | [고덕](https://www.amap.com/search?query=西安城墙永宁门) / [구글](https://www.google.co.kr/maps/search/西安城墙+永宁门) | 영녕문 대여, 일몰 라이딩 |
 | 18:10 | 공연장 이동 | 华夏文旅度假区 | [고덕](https://www.amap.com/search?query=华夏文旅驼铃传奇) / [구글](https://www.google.co.kr/maps/search/华夏文旅度假区) | 디디추싱 ~40분 |
 | 18:50 | 실크로드쇼 관람 | 华夏文旅驼铃传奇 | [고덕](https://www.amap.com/search?query=华夏文旅驼铃传奇) / [구글](https://www.google.co.kr/maps/search/华夏文旅度假区) | 티켓 예약 완료 |
-| 20:30 | 숙소 복귀 | 西安JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安JW万豪酒店) | |
+| 20:30 | 숙소 복귀 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | |
 
 **여유 시(활기 있으면):**
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
-| 21:00 | 西安晚风咖啡 | 西安晚风咖啡 | [고덕](https://www.amap.com/search?query=西安晚风咖啡) / [바이두맵](https://map.baidu.com/search/%E8%A5%BF%E5%AE%89%E6%99%9A%E9%A3%8E%E5%92%96%E5%95%A1) | 북림구 서원문 4F, 성벽뷰 루프테라스. 22시 마감 가능성 → 일찍 가는 게 안전 |
+| 21:00 | 시안완펑커피 | 西安晚风咖啡 | [고덕](https://www.amap.com/search?query=西安晚风咖啡) / [구글](https://www.google.co.kr/maps/search/西安晚风咖啡) | 북림구 서원문 4F, 성벽뷰 루프테라스. 22시 마감 가능성 → 일찍 가는 게 안전 |
 | 21:30 | 대당불야성 야경 | 大唐不夜城 | [고덕](https://www.amap.com/search?query=大唐不夜城) / [구글](https://www.google.co.kr/maps/search/大唐不夜城) | 숙소 인근, 도보 OK |
 
 > 💡 **TIP**: 산서역사박물관은 위챗 사전 예약 필수! 매표소 16:00 마감, 입장 16:30 마감. 丝绸之路群雕은 남호공원 인근, 숙소에서 매우 가까움. 일몰 시간 성벽 라이딩 추천. 공연장(华夏文旅度假区)은 대형 단지, 로비 넓음. 공연 30분 전 입장 권장. ☕ 대당부용원: 과거 유료 → 현재 무료 개방 (사전 예약 필수).
@@ -83,7 +83,7 @@
 | 17:00 | 저녁+리징문 야경 | 丽景门 | [고덕](https://www.amap.com/search?query=丽景门洛阳) / [구글](https://www.google.co.kr/maps/search/丽景门+洛阳) | 리징문 주변 저녁 식사 |
 | 18:30 | 낙양용문역→시안북역 이동 | — | — | 택시/디디 약 20분 |
 | 19:00 | 고속철도 (낙양→시안) | — | — | 약 1.5h |
-| 20:30 | 숙소 도착 | 西安JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安JW万豪酒店) | |
+| 20:30 | 숙소 도착 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | |
 
 **Plan B — 낙양 야경 생략 + 일찍 복귀해서 시안에서 저녁:**
 | 시간 | 활동 | 중국어 | 비고 |
@@ -93,7 +93,7 @@
 | 17:30 | 고속철도 (낙양→시안) | — | 일찍 타면 19:00경 시안 도착 |
 | 19:30 | 숙소 짐 맡기고 회족거리로 | 回民街 | 디디추싱 ~20분 |
 | 20:00 | 회족거리 저녁: 루지아모·양포자탕·양꼬치 | 肉夹馍 / 羊肉泡馍 / 烤肉 | 야시장 분위기, 22시까지 활기 |
-| 21:00 | 숙소 복귀 | 西安JW万豪酒店 | |
+| 21:00 | 숙소 복귀 | 西安高新JW万豪酒店 | |
 
 > 💡 Plan B는 피로도가 높을 때, 낙양 야경보다 시안 먹거리가 priority일 때 선택. 리징문 건너뛰면 용문석굴+박물관 시간을 늘릴 수도 있음.
 
@@ -119,7 +119,7 @@
 | 08:30 | 병마용 투어 | 秦始皇兵马俑 | [고덕](https://www.amap.com/search?query=秦始皇兵马俑) / [구글](https://www.google.co.kr/maps/search/秦始皇兵马俑博物馆) | 한국어 가이드 |
 | 12:30 | 중식 (투어 포함) | — | — | |
 | 13:30 | 화청지 | 华清池 | [고덕](https://www.amap.com/search?query=华清池) / [구글](https://www.google.co.kr/maps/search/华清池) | 투어 포함 |
-| 15:30 | 숙소 복귀 & 휴식 | 西安JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安JW万豪酒店) | 샤워+휴식 |
+| 15:30 | 숙소 복귀 & 휴식 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | 샤워+휴식 |
 
 **여유 시(활기 있으면):**
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
@@ -169,15 +169,16 @@
 | 06:30 | 숙소→시안북역 | 西安北站 | [고덕](https://www.amap.com/search?query=西安北站) / [구글](https://www.google.co.kr/maps/search/西安北站) | 디디추싱 ~50분 |
 | 07:30 | 고속철도 (시안→화산북) | 华山北站 | — | 약 33분 |
 | 08:10 | 화산북역→관광센터 | 华山游客中心 | [고덕](https://www.amap.com/search?query=华山景区游客中心) / [구글](https://www.google.co.kr/maps/search/华山游客中心+华山) | 무료 셔틀 |
-| 09:00 | 서봉索道 ↑ | 西峰索道 | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 케이블카 약 20분 |
+| 09:00 | 서봉索道 ↑ | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 케이블카 약 20분 |
 | 09:30 | 서봉→남봉→동봉 | 西峰→南峰→东峰 | [고덕](https://www.amap.com/search?query=华山风景区) / [구글](https://www.google.co.kr/maps/search/华山风景区) | 남봉 최고봉 2154.9m. 간식으로 점심 대체 ( prepared 간식 필수! ) |
 | 12:00 | 동봉→중봉→서봉 | 东峰→中峰→西峰 | — | ~2h |
-| 14:00 | 서봉索道 ↓ 하산 | 西峰索道 | — | |
+| 14:00 | 서봉索道 ↓ 하산 | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 하산 |
+| (Optional) | 북봉索道 ↓ 하산 (북봉Out) | 北峰索道(三特索道) | [고덕](https://www.amap.com/search?query=华山北峰索道) / [구글](https://www.google.co.kr/maps/search/华山北峰索道) | 서봉↓ 대신 북峰으로 하산 가능. 총 5-6h, 난이도 중 |
 | 15:00 | 관광센터→화산북역 | 华山北站 | [고덕](https://www.amap.com/search?query=华山北站) / [구글](https://www.google.co.kr/maps/search/华山北站) | 셔틀버스 |
 | 15:30 | 고속철도 (화산→시안) | — | — | |
-| 16:30 | 숙소 도착 | 西安JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安JW万豪酒店) | |
+| 16:30 | 숙소 도착 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | |
 
-**여유 시(활기 있으면):** 화산 등반 피도로 인해 조기 휴식 권장. 기력이 남았다면 西安晚风咖啡에서 성벽 야경과 함께 저녁.
+**여유 시(활기 있으면):** 화산 등반 피도로 인해 조기 휴식 권장. 기력이 남았다면 시안완펑커피에서 성벽 야경과 함께 저녁.
 
 > 💡 **TIP**: 화산 공식사이트 [chinahuashan.com](http://www.chinahuashan.com) — hotline 400-0913-777. 서봉索道 ↑ 서봉索道 ↓ 권장 (4-5h). 기상악화 시 케이블카 운행 중단 가능. 金锁关 이북은 난이도 상승. 알리페이로 모바일 티켓 구매 가능. ☕ 후기: "시안까지 갔다면 화산도 가보시길 추천" (314조회). 당일 출발 06:30 기준 충분히 가능한 스케줄.
 >
@@ -207,7 +208,7 @@
 | 산서역사박물관 | 디디 10분 | 15분 | 오후 일정 |
 | 성벽 영녕문 | 디디 15분 | 20분 | 자전거+일몰 |
 | 종루·회족거리 | 디디 20-25분 | 7-8km | 활기 있을 때 |
-| 西安晚风咖啡 (서원문) | 디디 15분 | 20분 | 성벽 야경 카페 |
+| 시안완펑커피 (서원문) | 디디 15분 | 20분 | 성벽 야경 카페 |
 
 **회족거리 ↔ 대당불야성**: 서로 25분 거리, 꽤 멂. 둘 다 가려면 이동 시간 고려
 
@@ -226,7 +227,7 @@
 | 항목 | 중국어 | 위치(숙소 기준) | 지도 | 일정 | 비고 |
 |------|--------|----------------|------|------|------|
 | 뱡뱡면 | 裤带面 | 📍 도보 10분 | [고덕](https://www.amap.com/search?query=裤带面+大雁塔) / [구글](https://www.google.co.kr/maps/search/裤带面+大雁塔) | 5/16 저녁 | 대안탑 근처 |
-| 西安晚风咖啡 | 西安晚风咖啡 | 📍 디디 15분 | [고덕](https://www.amap.com/search?query=西安晚风咖啡) / [바이두맵](https://map.baidu.com/search/%E8%A5%BF%E5%AE%89%E6%99%9A%E9%A3%8E%E5%92%96%E5%95%A1) | 5/14 저녁 | 서원문 4F, 22시 마감 |
+| 시안완펑커피 | 西安晚风咖啡 | 📍 디디 15분 | [고덕](https://www.amap.com/search?query=西安晚风咖啡) / [구글](https://www.google.co.kr/maps/search/西安晚风咖啡) | 5/14 저녁 | 서원문 4F, 22시 마감 |
 | 루지아모 | 肉夹馍 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=肉夹馍+回民街) / [구글](https://www.google.co.kr/maps/search/肉夹馍+回民街) | 5/16 Plan B | 회족거리 |
 | 양포자탕 | 羊肉泡馍 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=羊肉泡馍+回民街) / [구글](https://www.google.co.kr/maps/search/羊肉泡馍+回民街) | 5/16 Plan B | 회족거리 |
 | 쩡까오 | 甄糕 | 📍 디디 20분 | [고덕](https://www.amap.com/search?query=甄糕) / [구글](https://www.google.co.kr/maps/search/甄糕+西安) | 5/16 Plan B | 늦으면 품절 |
