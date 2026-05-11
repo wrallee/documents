@@ -44,6 +44,8 @@
 
 ### 5/14(목) — 체크인 → 시안 시내 → 공연 → 시안 시내
 
+- 산서역사박물관 사전 예매 필요(어려움)
+
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
 | 12:10 | 공항 도착 | 西安咸阳国际机场 | [고덕](https://www.amap.com/search?query=西安咸阳国际机场) / [구글](https://www.google.co.kr/maps/search/西安咸阳国际机场) | 아시아나 |
@@ -156,27 +158,33 @@
 
 ---
 
-### 5/17(일) — 화산 자유여행 + 시안 시내(Optional)
+### 5/17(일) — 화산 자유여행
 
-**🎒 준비물**: 등산화(미끄럼방지 필수), 장갑(작업용/마스크 — 철계단 잡기), 방풍자켓(산정상 추움), 모자, 선크림, 물(500ml×2), 간식(초콜릿/에너지바), 보조배터리, 우비(비 올 때)
+열차 시간 변경 검토..(기존 열차 시간: 16:30)
+
+- **🎒 준비물**: 등산화(미끄럼방지 필수), 장갑(작업용/마스크 — 철계단 잡기), 방풍자켓(산정상 추움), 모자, 선크림, 물(500ml×2), 간식(초콜릿/에너지바), 보조배터리, 우비(비 올 때)
+- **✏️요약**: 무료 셔틀 -> 입장권/유료셔틀/케이블카 구매 -> 서상북하(4~6시간 잡아야 됨)
+- 정보글1: https://blog.naver.com/bluebuskr/224136158641
+- 정보글2: https://m.blog.naver.com/youngkeyworld/223566454099
+- 정보글3: https://yyoony.tistory.com/202
+- 정보글4: https://namu.wiki/w/%ED%99%94%EC%82%B0(%EC%A4%91%EA%B5%AD)
 
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
-| 06:30 | 숙소→시안북역 | 西安北站 | [고덕](https://www.amap.com/search?query=西安北站) / [구글](https://www.google.co.kr/maps/search/西安北站) | 디디추싱 ~50분 |
-| 07:30 | 고속철도 (시안→화산북) | 华山北站 | — | 약 33분 |
-| 08:10 | 화산북역→관광센터 | 华山游客中心 | [고덕](https://www.amap.com/search?query=华山景区游客中心) / [구글](https://www.google.co.kr/maps/search/华山游客中心+华山) | 무료 셔틀 |
-| 09:00 | 서봉索道 ↑ | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 케이블카 약 20분 |
-| 09:30 | 서봉→남봉→동봉 | 西峰→南峰→东峰 | [고덕](https://www.amap.com/search?query=华山风景区) / [구글](https://www.google.co.kr/maps/search/华山风景区) | 남봉 최고봉 2154.9m. 간식으로 점심 대체 ( prepared 간식 필수! ) |
-| 12:00 | 동봉→중봉→서봉 | 东峰→中峰→西峰 | — | ~2h |
-| 14:00 | 서봉索道 ↓ 하산 | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 하산 |
-| (Optional) | 북봉索道 ↓ 하산 (북봉Out) | 北峰索道(三特索道) | [고덕](https://www.amap.com/search?query=华山北峰索道) / [구글](https://www.google.co.kr/maps/search/华山北峰索道) | 서봉↓ 대신 북峰으로 하산 가능. 총 5-6h, 난이도 중 |
-| 15:00 | 관광센터→화산북역 | 华山北站 | [고덕](https://www.amap.com/search?query=华山北站) / [구글](https://www.google.co.kr/maps/search/华山北站) | 셔틀버스 |
-| 15:30 | 고속철도 (화산→시안) | — | — | |
-| 16:30 | 숙소 도착 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | |
+| 06:00 | 숙소→시안북역 | 西安北站 | [고덕](https://www.amap.com/search?query=西安北站) / [구글](https://www.google.co.kr/maps/search/西安北站) | 디디추싱 ~50분 |
+| 07:52 | 시안북역→화산북역 | 华山北站 | — | 약 33분 |
+| 08:20 | 화산북역→관광센터 | 华山游客中心 | [고덕](https://www.amap.com/search?query=华山景区游客中心) / [구글](https://www.google.co.kr/maps/search/华山游客中心+华山) | 무료 셔틀(약 30분) |
+| 09:00 | 관광센터→케이블카(서봉) | - | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 유료셔틀(약 40분) |
+| 11:30 | 서봉索道 ↑ | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 케이블카 약 20분(+ 탑승대기 1시간 예상) |
+| 13:00 | 서봉→남봉→동봉 | 西峰→南峰→东峰 | [고덕](https://www.amap.com/search?query=华山风景区) / [구글](https://www.google.co.kr/maps/search/华山风景区) | 남봉 최고봉 2154.9m. 간식으로 점심 대체 ( 간식 준비 필수! ) |
+| 15:00 | 동봉→중봉→서봉 | 东峰→中峰→西峰 | — | ~2h |
+| 16:00 | 서봉索道 ↓ 하산 | 西峰索道(太华索道) | [고덕](https://www.amap.com/search?query=华山西峰索道) / [구글](https://www.google.co.kr/maps/search/华山西峰索道) | 하산 |
+| (Optional) | 북봉索道 ↓ 하산 | 北峰索道(三特索道) | [고덕](https://www.amap.com/search?query=华山北峰索道) / [구글](https://www.google.co.kr/maps/search/华山北峰索道) | 서봉 대신 북봉으로 하산 가능(총 4-6h) |
+| 18:00 | 관광센터→화산북역 | 华山北站 | [고덕](https://www.amap.com/search?query=华山北站) / [구글](https://www.google.co.kr/maps/search/华山北站) | 셔틀버스/택시(+ 케이블카 탑승대기 1시간 예상) |
+| 20:00? | 고속철도 (화산→시안) | — | — | |
+| 21:00 | 숙소 도착 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | 디디 3~40분 |
 
-**여유 시(활기 있으면):** 화산 등반 피도로 인해 조기 휴식 권장. 기력이 남았다면 시안완펑커피에서 성벽 야경과 함께 저녁.
-
-> 💡 **TIP**: 화산 공식사이트 [chinahuashan.com](http://www.chinahuashan.com) — hotline 400-0913-777. 서봉索道 ↑ 서봉索道 ↓ 권장 (4-5h). 기상악화 시 케이블카 운행 중단 가능. 金锁关 이북은 난이도 상승. 알리페이로 모바일 티켓 구매 가능. ☕ 후기: "시안까지 갔다면 화산도 가보시길 추천" (314조회). 당일 출발 06:30 기준 충분히 가능한 스케줄.
+> 💡 **TIP**: 화산 공식사이트 [chinahuashan.com](http://www.chinahuashan.com) — hotline 400-0913-777. 서봉索道 ↑ 서봉索道 ↓ 권장 (4-5h). 기상악화 시 케이블카 운행 중단 가능.
 >
 > ☕ **소남문 조시장 (小南门早市)**: 새벽에만 열리는 현지인 시장! 오전 9~10시 철수 시작. 갓 구운 빵 + 현지 아침 식사 가능. ☕ "찐 시안" 느낌 추천. 일정상 5/15(07:00 출발), 5/17(06:30出發)은 시간 안맞음. 만약 일정 변경 시 고려.
 
@@ -189,7 +197,7 @@
 
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
-| 10:00 | 체크아웃→공항 | 西安咸阳国际机场 | [고덕](https://www.amap.com/search?query=西安咸阳国际机场) / [구글](https://www.google.co.kr/maps/search/西安咸阳国际机场) | |
+| 09:30 | 체크아웃→공항 | 西安咸阳国际机场 | [고덕](https://www.amap.com/search?query=西安咸阳国际机场) / [구글](https://www.google.co.kr/maps/search/西安咸阳国际机场) | |
 | 13:10 | 출국 | — | — | 아시아나 |
 
 ---
