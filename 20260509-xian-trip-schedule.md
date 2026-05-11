@@ -105,15 +105,17 @@
 
 ---
 
-### 5/16(토) — 병마용 + 시안 시내(Optional)
+### 5/16(토) — 병마용 + 시안 시내
+
+- 투어: https://experiences.myrealtrip.com/products/4599755
+- 투숙하시는 호텔명및 주소  남겨주시면, 상황에 따라 호텔픽업 가능합니다. 
+- 숙소 ↔ 회족거리 택시로 약 20분
 
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
 |------|------|--------|------|------|
-| 07:40 | 숙소→픽업 지점 | 钟楼 | [고덕](https://www.amap.com/search?query=钟楼) / [구글](https://www.google.co.kr/maps/search/钟楼+西安) | 투어 픽업 |
-| 08:30 | 병마용 투어 | 秦始皇兵马俑 | [고덕](https://www.amap.com/search?query=秦始皇兵马俑) / [구글](https://www.google.co.kr/maps/search/秦始皇兵马俑博物馆) | 한국어 가이드 |
-| 12:30 | 중식 (투어 포함) | — | — | |
-| 13:30 | 화청지 | 华清池 | [고덕](https://www.amap.com/search?query=华清池) / [구글](https://www.google.co.kr/maps/search/华清池) | 투어 포함 |
-| 15:30 | 숙소 복귀 & 휴식 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | 샤워+휴식 |
+| 07:30 | 호텔픽업 | - | [고덕](https://www.amap.com/search?query=钟楼) / [구글](https://www.google.co.kr/maps/search/钟楼+西安) | 시안 벨 타워&드럼 타워 |
+| 08:00 | 🍚병마용 투어 | 秦始皇兵马俑 | [고덕](https://www.amap.com/search?query=秦始皇兵马俑) / [구글](https://www.google.co.kr/maps/search/秦始皇兵马俑博物馆) | 한국어 가이드 |
+| 15:00 | 시안 시내 호텔도착 | 西安高新JW万豪酒店 | [고덕](https://www.amap.com/search?query=西安高新JW万豪酒店) / [구글](https://www.google.co.kr/maps/search/西安高新JW万豪酒店) | 샤워+휴식 |
 
 **여유 시(활기 있으면):**
 | 시간 | 활동 | 중국어 | 지도 | 비고 |
@@ -124,7 +126,7 @@
 | 20:00 | 대안탑 분수쇼 | 大雁塔 | [고덕](https://www.amap.com/search?query=大雁塔) / [구글](https://www.google.co.kr/maps/search/大雁塔) | 20:00, 21:00 두 회차 |
 | 20:30 | 대당불야성 | 大唐不夜城 | [고덕](https://www.amap.com/search?query=大唐不夜城) / [구글](https://www.google.co.kr/maps/search/大唐不夜城) | 야경 절정 |
 
-> 💡 **TIP**: 병마용 투어 오후 3-4시 숙소 도착 예상. ☕ 박물관 관람 팁: 1호갱(주전시) → 2호갱 → 3호갱 순서 추천, 여권 필수(실명제). 피곤하면 무리하지 말고 숙소에서 쉬기. 회족거리는 종루 옆, 도보 이동 가능. 쩡까오(甄糕)는 오후 늦으면 품절. 분수쇼는 20:00/21:00 두 번. 대당불야성은 바로 옆.
+> 💡 **TIP**: 병마용 투어 오후 3시 숙소 도착 예상. ☕ 박물관 관람 팁: 1호갱(주전시) → 2호갱 → 3호갱 순서 추천, 여권 필수(실명제). 피곤하면 무리하지 말고 숙소에서 쉬기. 회족거리는 종루 옆, 숙소에서 택시로 20분. 쩡까오(甄糕)는 오후 늦으면 품절. 분수쇼는 12/15/18/20시(평일은 12/20시). 대당불야성은 바로 옆.
 
 **📌 해당 위시리스트 항목:**
 - 🏯 병마용 (5/16 오전)
